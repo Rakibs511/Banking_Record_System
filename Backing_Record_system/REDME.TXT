@@ -1,0 +1,5 @@
+1.install visual Studio.
+2.create a c++ console app.
+3.main file is "bank.cpp"
+4.pest all audio file same destinaton of bank.cpp
+5.lets run this project. 
